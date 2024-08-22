@@ -1,0 +1,10 @@
+User-Agent: *
+Disallow: 
+
+Sitemap: https://heymorat.github.io/sitemap.html.gz
+Sitemap: https://heymorat.github.io/app/sitemap.html.gz
+Sitemap: https://heymorat.github.io/assets/sitemap.html.gz
+Sitemap: https://heymorat.github.io/css/sitemap.html.gz
+Sitemap: https://heymorat.github.io/includes/sitemap.html.gz
+Sitemap: https://heymorat.github.io/item/sitemap.html.gz
+Sitemap: https://heymorat.github.io/src/sitemap.html.gz
